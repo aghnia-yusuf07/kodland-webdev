@@ -5,11 +5,12 @@ Methodology   : BEM
 
 Architechture : Monolith semi-modular
 
-Stack         : Library   - Tailwind css
-                          - Animate On-Scroll
-                          - Owl Carousel
+Stack         :
+Library   - Tailwind css
+          - Animate On-Scroll
+          - Owl Carousel
 						  
-                Structural  HTML5
-                Language    PHP, JavaScript
+Structural  HTML5
+Language    PHP, JavaScript
 				
 MVC           : No MVC
